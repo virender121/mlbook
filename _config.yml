@@ -11,7 +11,7 @@ execute:
   execute_notebooks         : 'off'
 
 repository: 
-  url: https://github.com/dafriedman97/mlbook
+  url: https://github.com/virender121/mlbook
 
 
 html:
